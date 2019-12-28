@@ -1,0 +1,24 @@
+{
+  "name": "dns-spoofing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ws",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinvey/dns-spoofing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinvey/dns-spoofing/issues"
+  },
+  "homepage": "https://github.com/shinvey/dns-spoofing#readme",
+  "dependencies": {
+    "local-web-server": "^3.0.7"
+  }
+}
